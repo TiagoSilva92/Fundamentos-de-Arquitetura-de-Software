@@ -16,6 +16,12 @@ namespace OOP
         }
 
         public abstract void Ligar();
+
         public abstract void Desligar();
+
+        public virtual void Testar() 
+        { 
+        
+        }
     }
 }
