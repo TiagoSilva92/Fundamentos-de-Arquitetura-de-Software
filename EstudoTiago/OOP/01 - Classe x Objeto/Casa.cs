@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP._01___Classe_x_Objeto
+namespace OOP
 {
     public class Casa
     {
