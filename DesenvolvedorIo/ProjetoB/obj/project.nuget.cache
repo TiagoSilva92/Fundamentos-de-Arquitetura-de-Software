@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ASweXjH4LJUpCTi367D4v9od3aczRwpNd7XS9AdOkuevKT6sIe0TsWFk9IRMvkczSEjoEF1rORvFtStg41Pnw==",
+  "dgSpecHash": "0gf+Fv+VHqUy4SJPJQTmYKrnlxQxpPnRsTu/2KRH6wa3nBMBmURuYCmRNsiVM2ixh2p3jnrG+azfnln4JgnDfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos de Arquitetura de Software\\DesenvolvedorIo\\ProjetoB\\ProjetoB.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos-de-Arquitetura-de-Software\\DesenvolvedorIo\\ProjetoB\\ProjetoB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

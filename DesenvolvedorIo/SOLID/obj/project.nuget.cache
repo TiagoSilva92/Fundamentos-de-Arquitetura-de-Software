@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZHeW0gQgUBm+7/UiUgRrQ3/KmcTVl/jDmDk8+lgJsOyb7zO48kr/e3bWyJ4i7VtbFKnzzBu38nOf1nKotozXlw==",
+  "dgSpecHash": "LeWfVZEE7ixc4WpIZz07i2yAqDkhplO/Fr5exlkXUwqw9nK62AyuiHcf5UiZqrj4Vj6z2P95Z6wZgKdjvRNBXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos de Arquitetura de Software\\DesenvolvedorIo\\SOLID\\SOLID.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos-de-Arquitetura-de-Software\\DesenvolvedorIo\\SOLID\\SOLID.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",

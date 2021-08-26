@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GNGj6gPat+oW797PUKsp3uASdFsb1XBHPJx9VvwrVmPKUpBlaQEGmMD0QWr5tkE/Nnc7vHWIV1FHQ3E+XRfNAA==",
+  "dgSpecHash": "r9RN8GNReS+9EQsAE4MuEjbw5/RyuH98nLO8RqBCcd6254oWEC3BAo91CYKbL0OdjoZQQzM7yxS9X4lTXvY/xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos de Arquitetura de Software\\DesenvolvedorIo\\DemoDI\\DemoDI.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos-de-Arquitetura-de-Software\\DesenvolvedorIo\\DemoDI\\DemoDI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",

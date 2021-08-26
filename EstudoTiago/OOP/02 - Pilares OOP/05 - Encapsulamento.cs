@@ -2,9 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OOP._02___Pilares_OOP
+namespace OOP
 {
-    class _05___Encapsulamento
+    public class AutomacaoCafe
     {
+        public void Servircafe()
+        {
+            var espresso = new CafeteiraEspressa();
+            espresso.Ligar();
+            espresso.PrepararCafe();
+            espresso.Desligar();
+        }
     }
 }

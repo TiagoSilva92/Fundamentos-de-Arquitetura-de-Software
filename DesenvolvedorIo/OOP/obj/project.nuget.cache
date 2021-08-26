@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SnSbizWnZey9BuCEyZlsCeLSC6586EVBCBR7qO9UCxGmEDC7KbP0uqGVGxizVyLyrdJdRkcr4x9qw6UDgf+lQg==",
+  "dgSpecHash": "iPqfhIslbtM6Rt4X2Sm/bzPaaa50csp0l1WL45hSnGo2g6LyO5yTmVOhCP7KbK3hUEn1kxovSLwc6QqZIDhGRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos de Arquitetura de Software\\DesenvolvedorIo\\OOP\\OOP.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Área de Trabalho\\Fundamentos-de-Arquitetura-de-Software\\DesenvolvedorIo\\OOP\\OOP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.2.0\\microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
